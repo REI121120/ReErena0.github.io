@@ -1,12 +1,4 @@
 @charset "UTF-8";
-
-
-
-
-
-
-
-
 /* ボタン全体 */
 .flowbtn{
 font-family:'Arial',sans-serif;/* arial */
@@ -32,10 +24,6 @@ background:#55acee;
 /* YouTube */
 .fl_yu1{
 background:#fc0d1c;
-}
-/* LINE */
-.fl_li1{
-background:#00c300;
 }
 /* 問い合わせ */
 .fl_ma1{
